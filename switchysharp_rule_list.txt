@@ -4,6 +4,7 @@
 *://5i01.com/*
 
 *://*.flickr.com/*
+*://*.staticflickr.com/*
 
 *://*.android.com/*
 *://androidexample.com/*
