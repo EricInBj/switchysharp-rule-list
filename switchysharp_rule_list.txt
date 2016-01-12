@@ -66,6 +66,7 @@
 
 *://t.co/*
 *://twitter.com/*
+*://*.twimg.com/*
 *://*.typekit.com/*
 *://*.typekit.net/*
 
