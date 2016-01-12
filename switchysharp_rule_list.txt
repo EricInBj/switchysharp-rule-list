@@ -3,6 +3,8 @@
 [wildcard]
 *://5i01.com/*
 
+*://*.flickr.com/*
+
 *://*.android.com/*
 *://androidexample.com/*
 *://*.appspot.com/*
