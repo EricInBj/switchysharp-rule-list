@@ -65,7 +65,7 @@
 *://stackoverflow.com/*
 
 *://t.co/*
-*://twitter.com/*
+*://*.twitter.com/*
 *://*.twimg.com/*
 *://*.typekit.com/*
 *://*.typekit.net/*
